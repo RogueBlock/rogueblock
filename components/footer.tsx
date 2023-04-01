@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className="flex flex-col justify-center items-center text-center p-6">
       <a
-        href="https://github.com/aorumbayev/rougeblock"
+        href="https://github.com/aorumbayev/rogueblock"
         target="_blank"
         rel="noopener noreferrer"
         className="w-6 h-6 mx-2 dark:fill-white"

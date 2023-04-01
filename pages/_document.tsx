@@ -13,7 +13,7 @@ class MyDocument extends Document {
           <meta charSet="utf-8" />
           <meta name="robots" content="follow, index" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-          <link href="/favicon.png" rel="icon" sizes="32x32" type="image/png" />
+          <link href="/favicon.ico" rel="icon" sizes="32x32" type="image/png" />
         </Head>
         <head>
           <link

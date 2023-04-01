@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 a {
-  @apply underline text-yellow-200 hover:text-yellow-400 visited:text-yellow-300;
+  @apply underline text-red-500 hover:text-red-500 visited:text-red-500;
 }

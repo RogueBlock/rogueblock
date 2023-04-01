@@ -23,7 +23,7 @@ RogueBlock is an OSS list of known malicious wallet addresses on Algorand Blockc
 RogueBlock API allows you to check whether a given wallet address is in the malicious wallets list or not. To use the API, send a GET request to the following endpoint:
 
 ```:mag_right: Endpoint
-https://rogueblock.xyz/api/scammer-lookup?address={put_wallet_to_check_here}
+https://rogueblock.xyz/api/scammer?address={put_wallet_to_check_here}
 ```
 
 ---

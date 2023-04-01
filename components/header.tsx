@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <div className="pt-5">
-        <div className="text-yellow-300 font-bold text-xl">RogueBlock </div>
+        <div className="text-red-500 font-bold text-xl">RogueBlock </div>
       </div>
 
       <div className="mt-5 mb-5 text-left  ">
@@ -14,7 +14,7 @@ export default function Header() {
           <br />
           Contribute on{' '}
           <Link
-            href="https://github.com/aorumbayev/rougeblock"
+            href="https://github.com/aorumbayev/rogueblock"
             target={'_blank'}
             style={{ textDecoration: 'none' }}
             rel="noopener noreferrer"

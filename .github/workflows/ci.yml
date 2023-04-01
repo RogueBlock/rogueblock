@@ -33,5 +33,5 @@ jobs:
       - name: Run TypeScript type check
         run: yarn type-check
 
-      - name: Run TypeScript lint
-        run: yarn lint
+      - name: Build test
+        run: yarn build

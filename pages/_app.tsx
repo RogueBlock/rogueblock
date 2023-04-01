@@ -26,7 +26,7 @@ export default function MyApp({ Component, pageProps: { ...pageProps } }) {
       >
         <GlobalStoreProvider>
           <Head>
-            <title>AI AwesomeAlgo</title>
+            <title>RogueBlock - Algo Scam Database</title>
           </Head>
 
           <div className="page-container">
